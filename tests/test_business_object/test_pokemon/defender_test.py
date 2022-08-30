@@ -5,6 +5,7 @@ from business_object.statistique import Statistique
 
 
 class TestDefenderPokemon(TestCase):
+    
     def test_get_coef_damage_type(self):
         # GIVEN
         attack = 1
