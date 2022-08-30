@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from business_object.pokemon.defender import Defender
+from pokemon_unite_lite.business_object.pokemon.defender import Defender
 from business_object.statistique import Statistique
 
 
